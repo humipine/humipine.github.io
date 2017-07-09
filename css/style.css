@@ -257,9 +257,19 @@ section h2
     bottom: 0;
     left: 0;
     
-    height: 40%;
+    height: 70%;
     margin: auto;
     padding: 10px 20px;
+}
+.works-box-inner div {
+    height: 70%;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.works-box {
+    padding-top: 0px;
 }
 
 #works .works-box a .works-box-inner h3
